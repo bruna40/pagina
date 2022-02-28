@@ -1,7 +1,25 @@
-.title {
+header {
   background-color: darkcyan;
-  t
-  padding: 50px;
+  height: 80px;
+}
+.caixa {
+  position: relative;
+  width:  950px;
+  margin: 0 0 auto;
+  
+}
+nav {
+  position: absolute;
+  top: 0;
+  right: 0;
+  top: 20px;
+}
+nav li {
+  display: inline;
+  margin: 0 0 0 15px;
+}
+nav a {
+  text-transform: uppercase;
 }
 
 #imagem {
