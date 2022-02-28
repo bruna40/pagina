@@ -1,8 +1,15 @@
 .title {
-    background-color: darkcyan;
-    text-align: center;
-
+  background-color: darkcyan;
+  t
+  padding: 50px;
 }
-img {
-   
+
+#imagem {
+  width: 200px;
+  border-radius: 50%;
+}
+.nome {
+  font-family: "Inconsolata", monospace;
+  text-align: center;
+  font-size: 20px;
 }
