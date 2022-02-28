@@ -1,0 +1,22 @@
+.pagina{
+    background-color: rgb(37, 162, 201);
+    
+}
+
+
+.contato{
+    
+    text-align: center;
+    font-family: "Inconsolata", monospace;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+#git{
+    
+    border-radius: 113px;
+
+}
+#link{
+    border-radius: 100px;
+    
+}
