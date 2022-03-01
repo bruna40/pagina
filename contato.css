@@ -1,11 +1,11 @@
 .pagina{
-    background-color: rgb(37, 162, 201);
+    background-color: rgb(204, 224, 230);
     
 }
 
 
 .contato{
-    
+    margin-top: 40px;
     text-align: center;
     font-family: "Inconsolata", monospace;
     font-size: 25px;
